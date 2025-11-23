@@ -1,3 +1,8 @@
+<div style="text-align: center;">
+ <p align="center"> <img alt="picture" src="https://github.com/seb07uk/MiniGames-Portable/blob/main/Minesweeper%20(Saper)/screenshot.PNG?raw=true" />
+</div>
+<br>
+
 # <p align="center">Minesweeper v1.0</p>
 <p align="center">portable</p>
 <br>
@@ -72,6 +77,5 @@ Kompletna, wielojęzyczna wersja klasycznej gry Saper z intuicyjnym interfejsem 
 Projekt dostępny na licencji MIT. Można go swobodnie używać, modyfikować i rozpowszechniać z zachowaniem informacji o autorze.
 
 ---
-
 <p style="text-align: center;">Kod został pierwotnie napisany i użyty do testowania kodu głównego.</p>
 <p style="text-align: center;">2025</p>
